@@ -1,0 +1,6 @@
+*.dat
+*.embedded
+*.pt
+*.json
+*.txt
+.tmp
